@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "407D578C-4593-4DC3-8D77-195A7E04F6B4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE12FD73-D8AE-4F89-BD88-3C52613ED069"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CardinalKit/Components/Study/StudyTasks.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "coffeeTask"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "FE12FD73-D8AE-4F89-BD88-3C52613ED069 - a37fb2a98dc09cda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_C20CD1F6B1AFD4B4BA440DB81FAAFC2D_func2"
+                  moduleName = "CardinalKit Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishanthsingaraju/CardinalKit-swiftul/CardinalKit-Example/CardinalKit/Components/Study/StudyTasks.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "FE12FD73-D8AE-4F89-BD88-3C52613ED069 - 2630ce199ff58225"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.ORKOrderedTask in variable initialization expression of static CardinalKit_Example.StudyTasks.coffeeTask : __C.ORKOrderedTask"
+                  moduleName = "CardinalKit Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishanthsingaraju/CardinalKit-swiftul/CardinalKit-Example/CardinalKit/Components/Study/StudyTasks.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  uuid = "FE12FD73-D8AE-4F89-BD88-3C52613ED069 - e4c84e5c7bf4e7dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardinalKit_Example.StudyTasks.coffeeTask.unsafeMutableAddressor : __C.ORKOrderedTask"
+                  moduleName = "CardinalKit Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishanthsingaraju/CardinalKit-swiftul/CardinalKit-Example/CardinalKit/Components/Study/StudyTasks.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96786660-8959-4352-9F6C-C5925D9771CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CardinalKit/Components/Study/StudyTasks.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "sf12Task"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
